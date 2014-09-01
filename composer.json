@@ -1,0 +1,9 @@
+{
+	"name": "webvimark/fancybox",
+	"description": "Tree",
+	"autoload": {
+		"psr-4": {
+			"webvimark\\extensions\\fancybox\\": ""
+		}
+	}
+}
